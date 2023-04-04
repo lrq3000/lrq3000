@@ -1,6 +1,6 @@
-### Welcome to Stephen Karl Larroque (LRQ3000) GitHub softwares repository 👋
+### 👋 Welcome to Stephen Karl Larroque (LRQ3000) GitHub softwares repository
 
-🤖AI researcher and 🧠clinical neuroscientist, with a specialty in magnetic resonance imagery 🔎. Open-source softwares developer & maintainer, especially in 🐍Python and MATLAB. I am particularly interested in researching biological consciousness, artificial consciousness, and 🛌🏽circadian sleep-wake rhythm disorders🌙. Founder of the [Circadiaware Collective](https://github.com/circadiaware).
+🤖AI researcher and 🧠clinical neuroscientist, with a specialty in magnetic resonance imagery 🔎. Open-source softwares developer & maintainer, especially in 🐍Python and MATLAB. Research works cover biological consciousness, artificial consciousness, and 🛌🏽circadian sleep-wake rhythm disorders🌙. Founder of the [Circadiaware Collective](https://github.com/circadiaware).
 
 Some of my most popular works:
 * [reedsolo](https://github.com/tomerfiliba-org/reedsolomon): co-author and current maintainer since 2015. Only universal Reed-Solomon codec, protects and restore data and communication streams. Used by key industrial actors, eg: Matter, the 2022 communication standard for connected appliances, and Espressif, a world leading producer of reprogrammable electronic boards chosen for most scientific prototyping devices to large scale industrial applications.
@@ -11,7 +11,9 @@ Some of my most popular works:
   * [Wearadian](https://github.com/Circadiaware/wearadian), a protocol and material design specifications using cutting-edge technologies for the long-term, continuous and accurate acquisition of circadian sleep-wake parameters in out-of-the-lab settings.
   * [MyNon24Sleep](https://figshare.com/projects/MyNon24_-_A_self-study_of_the_circadian_rhythm_and_its_altering_factors/101804), a self-study of the circadian rhythm and its altering factors, with a longitudinal 24/7 year-long dataset of circadian sleep-wake parameters using cutting-edge technologies published under Creative Commons, on the model of the MyConnectome experiment.
 
-I made a lot more projects over my decades of OSS development, please feel free to check the list of [my personal projects](https://github.com/lrq3000?tab=repositories) and my other contributions in other repositories.
+I made a lot more projects over my decades of OSS development, please feel free to check the list of [my personal projects](https://github.com/lrq3000?tab=repositories) and my other contributions in other repositories, my [list of publications](https://scholar.google.be/citations?user=Rj3IjYIAAAAJ), my [ORCID profile](https://orcid.org/0000-0002-6248-0957).
+
+I am very open to collaborations, so feel free to contact me about your exciting projects!
 
 <!--
 **lrq3000/lrq3000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
