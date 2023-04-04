@@ -1,6 +1,6 @@
 ### 👋 Welcome to Stephen Karl Larroque (LRQ3000) GitHub softwares repository
 
-🤖AI researcher and 🧠clinical neuroscientist, with a specialty in magnetic resonance imagery 🔎. Open-source softwares developer & maintainer, especially in 🐍Python and MATLAB. Research works cover biological consciousness, artificial consciousness, and 🛌🏽circadian sleep-wake rhythm disorders🌙. Founder of the [Circadiaware Collective](https://github.com/circadiaware).
+🤖AI researcher and 🧠clinical neuroscientist, with a specialty in magnetic resonance imagery 🔎. Open-source softwares developer & maintainer, especially in 🐍Python and MATLAB. Research works cover biological & artificial consciousness, and 🛌🏽circadian sleep-wake rhythm disorders🌙. Founder of the [Circadiaware Collective](https://github.com/circadiaware).
 
 Some of my most popular works:
 * [reedsolo](https://github.com/tomerfiliba-org/reedsolomon): co-author and current maintainer since 2015. Only universal Reed-Solomon codec, protects and restore data and communication streams. Used by key industrial actors, eg: Matter, the 2022 communication standard for connected appliances, and Espressif, a world leading producer of reprogrammable electronic boards chosen for most scientific prototyping devices to large scale industrial applications.
