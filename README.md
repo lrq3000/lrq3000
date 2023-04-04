@@ -1,4 +1,4 @@
-### 👋 Welcome to Stephen Karl Larroque (LRQ3000) GitHub softwares repository
+### 👋 Welcome to Stephen Karl Larroque (LRQ3000) GitHub repository
 
 🤖AI researcher and 🧠clinical neuroscientist, with a specialty in magnetic resonance imagery 🔎. Open-source softwares developer & maintainer, especially in 🐍Python and MATLAB. Research works cover biological & artificial consciousness, and 🛌🏽circadian sleep-wake rhythm disorders🌙. Founder of the [Circadiaware Collective](https://github.com/circadiaware).
 
