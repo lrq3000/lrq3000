@@ -13,7 +13,7 @@ Some of my most impactful works:
 
 I made a lot more projects over my decades of OSS development, please feel free to check the list of [my personal projects](https://github.com/lrq3000?tab=repositories) and my other contributions in other organizations, my [list of publications](https://scholar.google.be/citations?user=Rj3IjYIAAAAJ), my [ORCID profile](https://orcid.org/0000-0002-6248-0957). I also made a few [brain-related creative works](https://github.com/lrq3000/neuro-art) that got selected in art competitions.
 
-I am very open to new collaborations, so feel free to contact me about your exciting projects!
+I love new collaborations, so feel free to contact me about your exciting projects!
 
 <!--
 **lrq3000/lrq3000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
